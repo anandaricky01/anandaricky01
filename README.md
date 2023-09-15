@@ -1,3 +1,5 @@
+ini cuman untuk placeholder saja, supaya profile tidak sepi. dicommit secara sengaja -ricky
+
 # Halo, Saya [Nama Anda]! 👋
 
 Selamat datang di profil GitHub saya. Saya senang Anda mampir di sini! 🎉
